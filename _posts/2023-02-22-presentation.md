@@ -64,5 +64,4 @@ Lugar donde fue emitido
 Puntos de sanción
 s
 ## **Conclusiones**
-PROBAR DAPP:  
-https://certificacion-descentralizada.netlify.app
+[**PROBAR DAPP**](https://certificacion-descentralizada.netlify.app)
