@@ -41,10 +41,10 @@ Volviendo al menú de inicio, nos dirigiremos a la esquina superior derecha para
 ![img-description](/assets/img/samples/3.PNG)
 
 ##### Para poder usar las siguientes funciones es necesario tener Metamask instalado en el navegador.
-![img-description](/assets/img/samples/4.PNG)
+<!-- ![img-description](/assets/img/samples/4.PNG) -->
 El contrato esta deplegado en la testnet de Polygon (Mumbai).  
 Puedes obtener Matic de prueba en el siguiente link:  
-<!-- <a href="https://mumbaifaucet.com/" target="_blank" rel="noreferrer">Mumbai Faucet</a> -->
+<a href="https://mumbaifaucet.com/" target="_blank" rel="noreferrer">Mumbai Faucet</a>
 
 Al dirigirnos a la pestaña **AGREGAR** tendremos un formulario. Todos los datos serán mandados al smart contract para luego ser emitidos en un evento.
 ![img-description](/assets/img/samples/5.PNG)
@@ -87,4 +87,4 @@ Pero el objetivo del proyecto es solo mostrar el potencial que posee la tecnolog
 Gracias al uso de los contratos inteligentes junto a la cadena de bloques podemos crear herramientas realmente utiles que pueden ayudar a la sociedad más allá de sector económico.  
 Si quieres probar la DApp, el link de abajo te redireccionará a la página en otra pestaña. Recuerda que es necesario usar **Metamask** para acceder a las opciones de Agregar y Editar matriculas.   
 
-<!-- <a href="https://certificacion-descentralizada.netlify.app" target="_blank" rel="noreferrer">**REGISTRO DESENTRALIZADO**</a> -->
+<a href="https://certificacion-descentralizada.netlify.app" target="_blank" rel="noreferrer">**REGISTRO DESENTRALIZADO**</a>
