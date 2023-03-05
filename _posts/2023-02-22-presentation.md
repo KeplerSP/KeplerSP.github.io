@@ -41,7 +41,7 @@ Volviendo al menú de inicio, nos dirigiremos a la esquina superior derecha para
 ![img-description](/assets/img/samples/3.PNG)
 
 ##### Para poder usar las siguientes funciones es necesario tener Metamask instalado en el navegador.
-<!-- ![img-description](/assets/img/samples/4.PNG) -->
+![img-description](/assets/img/samples/4.PNG)
 El contrato esta deplegado en la testnet de Polygon (Mumbai).  
 Puedes obtener Matic de prueba en el siguiente link:  
 <a href="https://mumbaifaucet.com/" target="_blank" rel="noreferrer">Mumbai Faucet</a>
@@ -52,6 +52,8 @@ Al dirigirnos a la pestaña **AGREGAR** tendremos un formulario. Todos los datos
 
 En la pestaña **EDITAR** se encuentra un buscador para editar la información de la matricula que busquemos.
 ![img-description](/assets/img/samples/6.PNG)
+                
+----
 ![img-description](/assets/img/samples/7.PNG)
 _En la parte superior de la página se mostrará la información de la matricula ingresada_
 > Al ser este solo un prototipo ilustrativo solo se agregado la opción de agregar infracciones y vigencia del carnet.
