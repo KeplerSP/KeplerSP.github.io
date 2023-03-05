@@ -41,12 +41,11 @@ Volviendo al menú de inicio, nos dirigiremos a la esquina superior derecha para
 ![img-description](/assets/img/samples/3.PNG)
 
 ##### Para poder usar las siguientes funciones es necesario tener Metamask instalado en el navegador.
-<!-- ![img-description](/assets/img/samples/4.jpg) -->
-
 El contrato esta deplegado en la testnet de Polygon (Mumbai).  
 Puedes obtener Matic de prueba en el siguiente link:  
 <a href="https://mumbaifaucet.com/" target="_blank" rel="noreferrer">Mumbai Faucet</a>
-
+                
+----
 Al dirigirnos a la pestaña **AGREGAR** tendremos un formulario. Todos los datos serán mandados al smart contract para luego ser emitidos en un evento.
 ![img-description](/assets/img/samples/5.PNG)
 > La imagen será almacenada con IPFS y se guardará la referencia a esta dentro de un evento
