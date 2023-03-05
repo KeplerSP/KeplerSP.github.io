@@ -31,28 +31,28 @@ para una página que permita el registro y busqueda de matriculas, y la informac
 ## **Demostración del proyecto**
 Al entrar a la página de inicio, se nos mostrará un buscador el cual los usuarios podrán usar para interactuar con el Smart Contract
 y la información emitida por este.
-![img-description](/assets/img/samples/1.png)
+![img-description](/assets/img/samples/1.PNG)
 > Esta es una función que cualquier usuario puede utilizar por lo que no es necesario tener un monedero virtual instalado en el navegador.
   
 Se mostrará la información de la matricula ingresada en caso haya sido registrada con anterioridad.
-![img-description](/assets/img/samples/2.png)
+![img-description](/assets/img/samples/2.PNG)
 
 Volviendo al menú de inicio, nos dirigiremos a la esquina superior derecha para entrar en modo "administrador" donde podremos registrar y editar información de las matriculas emitidas.
-![img-description](/assets/img/samples/3.png)
+![img-description](/assets/img/samples/3.PNG)
 
 ##### Para poder usar las siguientes funciones es necesario tener Metamask instalado en el navegador.
-![img-description](/assets/img/samples/4.png)
+![img-description](/assets/img/samples/4.PNG)
 El contrato esta deplegado en la testnet de Polygon (Mumbai).  
 Puedes obtener Matic de prueba en el siguiente link:  
 <a href="https://mumbaifaucet.com/" target="_blank" rel="noreferrer">Mumbai Faucet</a>
 
 Al dirigirnos a la pestaña **AGREGAR** tendremos un formulario. Todos los datos serán mandados al smart contract para luego ser emitidos en un evento.
-![img-description](/assets/img/samples/5.png)
+![img-description](/assets/img/samples/5.PNG)
 > La imagen será almacenada con IPFS y se guardará la referencia a esta dentro de un evento
 
 En la pestaña **EDITAR** se encuentra un buscador para editar la información de la matricula que busquemos.
-![img-description](/assets/img/samples/6.png)
-![img-description](/assets/img/samples/7.png)
+![img-description](/assets/img/samples/6.PNG)
+![img-description](/assets/img/samples/7.PNG)
 _En la parte superior de la página se mostrará la información de la matricula ingresada_
 > Al ser este solo un prototipo ilustrativo solo se agregado la opción de agregar infracciones y vigencia del carnet.
 
