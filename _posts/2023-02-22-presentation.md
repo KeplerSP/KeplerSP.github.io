@@ -41,7 +41,7 @@ Volviendo al menú de inicio, nos dirigiremos a la esquina superior derecha para
 ![img-description](/assets/img/samples/3.PNG)
 
 ##### Para poder usar las siguientes funciones es necesario tener Metamask instalado en el navegador.
-![img-description](/assets/img/samples/4.jpg)
+<!-- ![img-description](/assets/img/samples/4.jpg) -->
 
 El contrato esta deplegado en la testnet de Polygon (Mumbai).  
 Puedes obtener Matic de prueba en el siguiente link:  
