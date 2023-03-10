@@ -67,7 +67,9 @@ En esta ocasión he usado *Hardhat* y *ethers.js* para realizar las interacción
 Como mencioné anteriormente los datos relacionados a una matricula serán emitidos como eventos y serán capturados en el FrontEnd con ethers.js para luego de un filtro minucioso, obtener los datos referentes a esa matricula. Esto además nos permite ahorrar gas ya que no estamos accediento a una función del smart contract para obtener sus datos.  
 
 Al no haber necesidad de almacenar datos de la matricula en el contrato, nos limitamos a simplemente tener 2 funciones que trabajarán con los datos pasados desde el Frontend y luego agrupar esos datos y emitirlos en un evento.  
-El código en Solidity también implementa librerias de OpenZepellin para aumentar su seguridad y eficiencia.
+El código en Solidity también implementa librerias de OpenZepellin para aumentar su seguridad y eficiencia.  
+**Proyecto Completo:** https://github.com/KeplerSP/RegistroVehicular  
+**Código del contrato:** https://github.com/KeplerSP/RegistroVehicular/blob/master/src/Backend/contracts/RegistroVehicular.sol  
 
 ## **Cosas a mejorar**
 Aún hay muchas más cosas que se podría implementar para hacer de esto un proyecto real que resuelva eficazmente el problema planteando.
@@ -89,4 +91,4 @@ Pero el objetivo del proyecto es solo mostrar el potencial que posee la tecnolog
 Gracias al uso de los contratos inteligentes junto a la cadena de bloques podemos crear herramientas realmente utiles que pueden ayudar a la sociedad más allá de sector económico.  
 Si quieres probar la DApp, el link de abajo te redireccionará a la página en otra pestaña. Recuerda que es necesario usar **Metamask** para acceder a las opciones de Agregar y Editar matriculas.   
 
-<a href="https://certificacion-descentralizada.netlify.app" target="_blank" rel="noreferrer">**REGISTRO DESENTRALIZADO**</a>
+<a href="https://certificacion-descentralizada.netlify.app" target="_blank" rel="noreferrer">**REGISTRO DESCENTRALIZADO**</a>
