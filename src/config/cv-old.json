@@ -1,0 +1,64 @@
+{
+    "basic": {
+        "name": "Kepler Garcia",
+        "job": "Bachelor’s Degree in Computer Science",
+        "summary": "I transform complex data into strategic business insights that drive growth and efficiency.",
+        "cv_file_name": "paul_cv.pdf"
+    },
+    "education": [
+        {
+            "title": "Bachelor of Science in Computer Science",
+            "sub_title": "National University of San Marcos",
+            "years": "2024 - 2025",
+            "details": "Graduated with honors. Specialized in software development, data structures, and algorithms. Worked on various open-source projects and completed internships in tech companies."
+        }
+    ],
+    "experiences": [
+        {
+            "title": "Senior Software Engineer",
+            "sub_title": "Tech Solutions Inc.",
+            "years": "2024 - present",
+            "details": "Led the development of a scalable e-commerce platform that increased sales by 30%. Worked with modern technologies including React, Node.js, and AWS."
+        }
+    ],
+    "projects": [
+        {
+            "imageUrl": "https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?q=80&w=764&auto=format&fit=crop",
+            "title": "fake1.com",
+            "type": "Website",
+            "link": "https://github.com/wasutz/astro-resume-theme"
+        },
+        {
+            "imageUrl": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?q=80&w=764&auto=format&fit=crop",
+            "title": "Paul UI kit collections",
+            "type": "UI Kit",
+            "link": "https://github.com/wasutz/astro-resume-theme"
+        },
+        {
+            "imageUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?q=80&w=764&auto=format&fit=crop",
+            "title": "paul.com",
+            "type": "Website",
+            "link": "https://github.com/wasutz/astro-resume-theme"
+        }
+    ],
+    "menuItems": [
+        {
+            "name": "About",
+            "link": "/"
+        },
+        {
+            "name": "Blog",
+            "link": "/blogs"
+        }
+    ],
+    "socialLinks": [
+        {
+            "iconName": "Github",
+            "link": "https://github.com/KeplerSP"
+        },
+        {
+            "iconName": "Instagram",
+            "link": "https://instagram.com"
+        }
+    ]
+}
